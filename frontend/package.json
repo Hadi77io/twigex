@@ -61,7 +61,7 @@
         "emoji-datasource-google": "16.0.0",
         "emoji-js": "^3.9.0",
         "frappe-gantt": "^1.2.2",
-        "gridstack": "^10.1.2",
+        "gridstack": "^14.0.0",
         "highlight.js": "^11.11.1",
         "livekit-client": "^2.13.5",
         "maplibre-gl": "^6.11.2",
